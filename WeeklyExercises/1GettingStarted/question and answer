@@ -1,0 +1,16 @@
+
+a. What is the latest version of the Java SDK that is available?
+ans. The latest version of the Java SDK (Java SE) is Java 17.
+
+b.What is the difference between Java SE and Java ME?
+ans. Java SE is intended for general-purpose computing devices like desktops and servers
+Java ME is designed for resource-constrained embedded systems and mobile devices.
+
+c.Which operating system is Java available for?
+ans. Java is available for various operating systems, including Windows, macOS, Linux, and others.
+
+d.What is the most popular IDE available for Java apart from Eclipse?
+ans. Apart from Eclipse, another popular IDE (Integrated Development Environment) for Java is IntelliJ IDEA.
+
+e. What is the main() function for in a Java program?
+ans. public static void main(String[] args) { }
