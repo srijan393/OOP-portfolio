@@ -13,7 +13,7 @@
 2 Test               -- Done\
 3 Personal Details   -- Done\
 4 Diamonds           -- Done\
-5 Questions          -- Done\
+5 Questions          -- Done
 
 **2 Data and Expressions**\
 **committed by 19th February**\
@@ -21,7 +21,7 @@
 2 Computing Averages       -- Done\
 3 Miles to Kilometers      -- Done\
 4 Square Calculation       -- Done\
-5 Fraction -- to do        -- Done\
+5 Fraction -- to do        -- Done
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
