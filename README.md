@@ -9,19 +9,19 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
-2 Test               -- to do\
-3 Personal Details   -- to do\
-4 Diamonds           -- to do\
-5 Questions          -- to do
+1 Hello World        -- Done\
+2 Test               -- Done\
+3 Personal Details   -- Done\
+4 Diamonds           -- Done\
+5 Questions          -- Done\
 
 **2 Data and Expressions**\
 **committed by 19th February**\
-1 Table of Student Grades  -- to do\
-2 Computing Averages       -- to do\
-3 Miles to Kilometers      -- to do\
-4 Square Calculation       -- to do\
-5 Fraction -- to do        -- to do
+1 Table of Student Grades  -- Done\
+2 Computing Averages       -- Done\
+3 Miles to Kilometers      -- Done\
+4 Square Calculation       -- Done\
+5 Fraction -- to do        -- Done\
 
 **3 Selection and Iteration**\
 **committed by 26th February**\
