@@ -28,7 +28,7 @@ public class Rock
                 computerPlay = "R";
                 break;
             case 1:
-                computerPlay = "P";
+                computerPlay = "P"; // case 1
                 break;
             case 2:
                 computerPlay = "S";
