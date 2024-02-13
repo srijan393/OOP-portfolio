@@ -15,7 +15,7 @@ public static void main (String[] args)
 
 
     System.out.print ("Enter the current salary: ");
-    currentSalary = scan.nextDouble();
+    currentSalary =  scan.nextDouble();
     System.out.print ("Enter the performance rating (Excellent, Good, or Poor): ");
     rating = scan.next();
     if(rating.equals("Excellent"))
