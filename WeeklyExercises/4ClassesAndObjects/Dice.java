@@ -30,6 +30,5 @@ public class Dice
      averageRoll2 = (double) totalRoll2 / 3;
      System.out.println("Die 1 rolled a total of " + totalRoll1 + " and rolled " + averageRoll1 + " on average.");
      System.out.println("Die 2 rolled a total of " + totalRoll2 + " and rolled " + averageRoll2 + " on average.");
-
  }
 }
