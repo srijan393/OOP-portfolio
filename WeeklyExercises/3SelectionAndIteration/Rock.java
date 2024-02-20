@@ -5,7 +5,7 @@ public class Rock
     public static void main(String[] args)
     {
         String personPlay;    //User's play -- "R", "P", or "S"
-        String computerPlay;  //Computer's play -- "R", "P", or "S"
+        String computerPlay = null;  //Computer's play -- "R", "P", or "S"
         int computerInt;      //Randomly generated number used to determine
         //computer's play
 
@@ -25,16 +25,16 @@ public class Rock
         switch (computerInt)
         {
             case 0:
-                computerPlay = "R";
+                computerPlay = "R"; // case 1
                 break;
             case 1:
-                computerPlay = "P"; // case 1
+                computerPlay = "P"; // case 2
                 break;
             case 2:
-                computerPlay = "S";
+                computerPlay = "S"; // case 3
                 break;
             default:
-                computerPlay = "R";
+               System.out.println("computerpaly" + computerInt) ; // default case is mandatory
         }
         //Print computer's play
         System.out.println("Computer plays: " + computerPlay);
